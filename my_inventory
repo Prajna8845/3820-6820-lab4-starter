@@ -6,3 +6,5 @@
 
 [webservers]
 #add ip addresses one on each line, below
+172.31.18.14
+172.31.24.255
